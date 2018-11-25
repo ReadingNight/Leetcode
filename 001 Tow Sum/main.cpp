@@ -26,7 +26,7 @@ public:
                 }
             }
         }
-        return position;
+        return {-1, -1};
     }
 };
 
